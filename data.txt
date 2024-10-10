@@ -1,0 +1,6 @@
+punto: 3 comentario: Hola soy Nico
+punto: 1 comentario: te amo Raquel
+punto: 2 comentario: Python es divertido
+punto: 4 comentario: Bender The Chonky cat
+punto: 5 comentario: Huh cat
+punto: 3 comentario: its me DaniSeg
